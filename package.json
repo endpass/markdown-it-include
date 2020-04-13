@@ -1,6 +1,6 @@
 {
-  "name": "markdown-it-include",
-  "version": "1.1.0",
+  "name": "@endpass/markdown-it-include",
+  "version": "1.0.0",
   "description": "Markdown-it plugin which adds the ability to include markdown fragment files.",
   "keywords": [
     "markdown-it-plugin",
